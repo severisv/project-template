@@ -1,0 +1,8 @@
+{
+    "name": "TestName",
+    "globalDependencies": {
+        "rrc": "file:typings/rrc.d.ts",
+        "react-sticky": "file:typings/react-sticky-d.ts",
+        "react-dropzone": "file:typings/react-dropzone.d.ts"
+    }
+}
